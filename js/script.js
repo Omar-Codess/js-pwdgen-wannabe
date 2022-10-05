@@ -6,3 +6,6 @@ console.log(userName, typeof userName);
 const userSurname = prompt("Qual è il tuo cognome?");
 console.log(userSurname, typeof userSurname);
 
+// Colore preferito utente
+const favColor = prompt("Qual è il tuo colore preferito?")
+console.log(favColor, typeof favColor);
